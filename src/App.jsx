@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
 import Projects from './components/Projects.jsx';
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 // import './App.css'
 
 function App() {
@@ -12,7 +10,7 @@ function App() {
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <a class="navbar-item">
-        <img src="src/assets/backless_logo.png" alt="Navbar Image" width="28" height="28" />
+        <img src="/assets/backless_logo.png" alt="Navbar Image" width="28" height="28" />
         </a>
       </div>
       <div id="navbarBasicExample" class="navbar-menu">
@@ -41,7 +39,7 @@ function App() {
           </div>
         </div>
           <figure class="image is-2by2">
-            <img src="src/assets/backless_logo.png" alt="Placeholder image"/>
+            <img src="/assets/backless_logo.png" alt="Placeholder image"/>
           </figure>
       </div>
     </section>
