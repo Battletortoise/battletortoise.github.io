@@ -34,7 +34,7 @@ function App() {
             <div class="content">
               <h1>About Me</h1>
               <p>Hello! I'm <strong>Wyatt Grayson Fulbright</strong>, a Web-developer and Author dedicated to bridging the gap between concept and reality</p>
-              <p> </p>
+              <p>Here's what I work with</p>
             </div>
           </div>
         </div>
