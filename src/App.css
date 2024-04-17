@@ -12,6 +12,16 @@
   color: black;
 } */
 
+.body_background {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.section_heading {
+  text-align: center;
+}
+
 .headings {
   color: #f8f8f8;
 }

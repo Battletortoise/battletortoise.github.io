@@ -6,7 +6,7 @@ import FEC from './projects/FEC.jsx';
 const Projects = () => {
   return (
     <div class="content">
-      <h1>Projects</h1>
+      <h1 className="section_heading">Projects</h1>
       <section class="section">
         <BlueOcean />
       </section>
