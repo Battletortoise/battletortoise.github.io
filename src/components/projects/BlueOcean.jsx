@@ -37,6 +37,7 @@ const BlueOcean = () => {
         </div>
         <footer class="card-footer">
           <a class="card-footer-item" href="https://github.com/mothras-cloud-solutions/study-stack" target="_blank">Github</a>
+          <a class="card-footer-item" href="https://study-stack-production.up.railway.app/" target="_blank">Study Stack</a>
         </footer>
       </div>
     </div>
