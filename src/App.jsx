@@ -33,9 +33,9 @@ function App() {
               Projects
             </Link>
           </a>
-          <a class="navbar-item">
+          {/* <a class="navbar-item">
             Education
-          </a>
+          </a> */}
         </div>
       </div>
     </nav>
