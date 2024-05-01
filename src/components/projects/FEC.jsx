@@ -26,7 +26,7 @@ function FEC() {
               </ul>
             </div>
           </div>
-          <div class="card-content">
+          <div class="card-content gif">
             <div class="card-image">
               <figure class="image is-4by4">
                 <img src="/assets/FECgif.gif" alt="Placeholder image"/>

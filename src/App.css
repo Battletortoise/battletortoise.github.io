@@ -22,6 +22,10 @@
   text-align: center;
 }
 
+.gif {
+  width: 120%;
+}
+
 /* .navbar {
   position: fixed;
   width: 100%;
