@@ -36,7 +36,7 @@ const BlueOcean = () => {
               </ul>
             </div>
           </div>
-          <div class="card-content">
+          <div class="card-content gif">
             <div class="card-image">
               <figure class="image">
                 <img src="/assets/BlueOcean.gif" alt="Placeholder image" />

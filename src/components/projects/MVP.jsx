@@ -26,7 +26,7 @@ const MVP = () => {
               </ul>
             </div>
           </div>
-          <div class="card-content">
+          <div class="card-content gif">
             <div class="card-image">
               <figure class="image is 128x128">
                 <img src="/assets/GGD.gif" alt="Placeholder image" />
