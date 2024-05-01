@@ -10,11 +10,19 @@ const MVP = () => {
               <h1>Granblue Grid Designer</h1>
               <p>The GGD is a personal project I made for the mobile game 'Granblue Fantasy'. It simulates the grid building aspect of gbf, calculating final grid stats through a series of algorythms</p>
               <h3>Stack</h3>
-              <ul>
-                <li>Javascript</li>
-                <li>React</li>
-                <li>Bulma CSS</li>
-                <li>Webpack</li>
+              <ul class="section is-flex is-multiline">
+                <figure class="image is-64x64 m-auto">
+                  <img src="/assets/icons/javascript.svg"></img>
+                </figure>
+                <figure class="image is-64x64 m-auto">
+                  <img src="/assets/icons/react.svg"></img>
+                </figure>
+                <figure class="image is-64x64 m-auto">
+                  <img src="/assets/icons/bulma.svg"></img>
+                </figure>
+                <figure class="image is-64x64 m-auto">
+                  <img src="/assets/icons/postgresql.svg"></img>
+                </figure>
               </ul>
             </div>
           </div>

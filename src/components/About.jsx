@@ -28,6 +28,9 @@ const About = () => {
               <figure class="image is-64x64 m-auto">
                 <img src="/assets/icons/react.svg"></img>
               </figure>
+              <figure class="image is-64x64 m-auto">
+                <img src="/assets/icons/bulma.svg"></img>
+              </figure>
             </ul>
             <ul class="is-flex section is-multiline">
               <figure class="image is-64x64 m-auto">
@@ -44,7 +47,7 @@ const About = () => {
         </div>
       </div>
       <figure class="image is-2by2">
-        <img src="/assets/backless_logo.png" alt="Placeholder image"/>
+        <img src="/assets/backless_logo.png" alt="Placeholder image" />
       </figure>
     </div>
   )
