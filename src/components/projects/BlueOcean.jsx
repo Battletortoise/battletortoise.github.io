@@ -1,11 +1,11 @@
 import React from 'react';
 
 const BlueOcean = () => {
-  const style={
+  const style = {
     width: '20%',
     height: 'auto',
   };
-  const imgstyle={
+  const imgstyle = {
     backgroundImage: 'url(src/assets/BlueOcean.gif)',
   };
   return (
@@ -17,13 +17,22 @@ const BlueOcean = () => {
               <h1>Study Stack</h1>
               <p>This project is a simple-to-use flashcard app designed to remove the fluff from modern study sites. Utlizes React-Konva to create annotations on flash cards to more accurately create whatever they need to study</p>
               <h3>Stack</h3>
-              <ul>
-                <li>Typescript</li>
-                <li>React</li>
-                <li>React-Konva</li>
-                <li>Express</li>
-                <li>Bulma CSS</li>
-                <li>Railway</li>
+              <ul class="section is-flex is-multiline">
+                <figure class="image is-64x64 m-auto">
+                  <img src="/assets/icons/typescript-icon.svg"></img>
+                </figure>
+                <figure class="image is-64x64 m-auto">
+                  <img src="/assets/icons/react.svg"></img>
+                </figure>
+                <figure class="image is-64x64 m-auto">
+                  <img src="/assets/icons/react-router.svg"></img>
+                </figure>
+                <figure class="image is-64x64 m-auto">
+                  <img src="/assets/icons/bulma.svg"></img>
+                </figure>
+                <figure class="image is-64x64 m-auto">
+                  <img src="/assets/icons/postgresql.svg"></img>
+                </figure>
               </ul>
             </div>
           </div>

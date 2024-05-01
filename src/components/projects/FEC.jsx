@@ -10,11 +10,19 @@ function FEC() {
               <h1>Atelier</h1>
               <p>Atelier was a modernized product page for an e-commerce site. It allows clients to save items in both their cart and an 'outfit' caraousel to keep users from going to a new page just to compare items</p>
               <h3>Stack</h3>
-              <ul>
-                <li>Javascript</li>
-                <li>React</li>
-                <li>Express</li>
-                <li>AWS</li>
+              <ul class="section is-flex is-multiline">
+                <figure class="image is-64x64 m-auto">
+                <img src="/assets/icons/javascript.svg"></img>
+              </figure>
+                <figure class="image is-64x64 m-auto">
+                <img src="/assets/icons/react.svg"></img>
+              </figure>
+                <figure class="image is-64x64 m-auto">
+                <img src="/assets/icons/nodejs-icon.svg"></img>
+              </figure>
+              <figure class="image is-64x64 m-auto">
+                <img src="/assets/icons/aws-ec2.svg"></img>
+              </figure>
               </ul>
             </div>
           </div>
