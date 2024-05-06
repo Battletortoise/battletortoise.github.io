@@ -2,6 +2,7 @@ import React from 'react';
 import Projects from './Projects.jsx';
 import About from './About.jsx';
 import Characters from './Characters.jsx';
+import Contact from './Contact.jsx';
 
 const Home = () => {
   return (
@@ -15,6 +16,9 @@ const Home = () => {
       {/* <section class="section container">
         <Characters />
       </section> */}
+      <section class="section container">
+        <Contact />
+      </section>
     </div>
   )
 };
